@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="MyBlog is a placeholder: writing lives on Exaryn Studio notes today; this repo is reserved for an Azure-hosted blog">
+  <title>MyBlog — where writing lives today vs what this repo is for</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/><stop offset="100%" stop-color="#151a2e"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/><stop offset="100%" stop-color="#719af2"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#18203a"/><stop offset="100%" stop-color="#0d1326"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1280" height="420" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1280" height="420" fill="url(#bg)"/>
+    <rect x="0" y="0" width="1280" height="6" fill="url(#bar)"/>
+    <text x="56" y="64" font-size="28" font-weight="800" fill="#ffffff" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Two places, one intent</text>
+    <text x="56" y="98" font-size="16" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">This repo is empty on purpose. The writing already exists; the Azure blog does not.</text>
+
+    <rect x="56" y="140" width="520" height="220" rx="18" fill="url(#card)" stroke="rgba(37,99,235,0.35)"/>
+    <rect x="56" y="140" width="520" height="4" rx="2" fill="#2563eb"/>
+    <text x="80" y="186" font-size="13" font-weight="700" fill="#719af2" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" letter-spacing="1.4">TODAY</text>
+    <text x="80" y="230" font-size="22" font-weight="700" fill="#ffffff" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Exaryn Studio notes</text>
+    <text x="80" y="264" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Public writing lives on the studio site</text>
+    <text x="80" y="290" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">until this blog has its own host.</text>
+    <text x="80" y="330" font-size="13" fill="#9aa3bd" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">chinmaygit8765.github.io/exaryn-studio</text>
+
+    <rect x="704" y="140" width="520" height="220" rx="18" fill="url(#card)" stroke="rgba(37,99,235,0.18)"/>
+    <rect x="704" y="140" width="520" height="4" rx="2" fill="#9aa3bd"/>
+    <text x="728" y="186" font-size="13" font-weight="700" fill="#9aa3bd" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" letter-spacing="1.4">THIS REPO</text>
+    <text x="728" y="230" font-size="22" font-weight="700" fill="#ffffff" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Azure blog — not built</text>
+    <text x="728" y="264" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">Reserved for reviews and writing,</text>
+    <text x="728" y="290" font-size="15" fill="#c7cbe0" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">deployed on Azure. No app code here yet.</text>
+    <text x="728" y="330" font-size="13" fill="#9aa3bd" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">placeholder · README + this diagram</text>
+  </g>
+</svg>
