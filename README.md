@@ -12,7 +12,7 @@
 ## ✨ What this is
 
 - A personal blog for reviews and writing, intended to deploy on **Azure**.
-- No app exists here yet — this repo currently holds nothing but this README.
+- No app exists here yet — this repo currently holds this README and the assets under `docs/assets/`.
 - Until the Azure build lands, active writing lives in the studio site linked below.
 
 ## 🎬 See it
